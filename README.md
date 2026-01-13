@@ -27,3 +27,8 @@ Separate IAM roles for:
 * AWS networking fundamentals (IGW, NAT, routing)
 * IAM role separation and least-privilege design
 * Real-world EKS provisioning using Terraform modules
+
+AWS: https://docs.aws.amazon.com/
+Kubernetes: https://kubernetes.io/docs/home/
+Terraform: https://developer.hashicorp.com/terraform/docs
+
